@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.haibeijinfu.app</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>海贝金服</string>
+				<string>海贝金付</string>
 			</dict>
 		</dict>
 	</array>
